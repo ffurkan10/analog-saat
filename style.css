@@ -24,7 +24,7 @@ body {
 
 .secs {
   position: absolute;
-  top: 50%;
+  top: 51%;
   left: 50%;
   height: 12rem;
   width: 0.1rem;
@@ -35,7 +35,7 @@ body {
 
 .mins {
   position: absolute;
-  top: 50%;
+  top: 51%;
   left: 50%;
   height: 9rem;
   width: 0.3rem;
@@ -54,7 +54,7 @@ body {
   background-color: black;
   border-radius: 15px;
   transform: translateX(-50%);
-  transform-origin: 50% 0;
+  transform-origin: 25% 0;
 }
 
 .dot {
